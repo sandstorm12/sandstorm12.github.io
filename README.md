@@ -1,34 +1,56 @@
-# ParticleGround-Portfolio
+<a href="https://jekyll-themes.com">
+<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
 
-A particle-theme template as a landing page for your portfolio.
+# Orbit
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-> [Demo](https://landing-page--itsron717.repl.co/)
+I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
 
-<img src="particle_demo/particle_demo.png"/>
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://webjeda.com/online-cv/assets/images/desktop.png?raw=true" width="600"/>
+    </td>
+    <td>
+        <img src="https://webjeda.com/online-cv/assets/images/mobile.png?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
 
-# Using the Template
+## Installation
 
-  - Fork and Clone the repository
+* [Fork](https://github.com/sharu725/online-cv/fork) the repository
+* Delete the `gh-pages` branch
+* Re-create the `gh-pages` branch
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at `https://username.github.io/online-cv/`
 
-    ```
-    $ git clone https://github.com/itsron717/ParticleGround-Portfolio.git
-    ```
- 
-  - Go inside the main repository
-  
-    ```
-    $ cd ParticleGround-Portfolio
-    ```
-    
-  - Modify `index.html` to change the names and links to point at your pages.
-  
-  - Upload your resume in the place of `deedy.pdf` (Or One can use the famous deedy template and build on that)
-   
-# Particle Feature
+Change all the details from one place: ``_data/data.yml``
 
-The particle feature was obtained with the help of this [particleground](https://github.com/jnicol/particleground). The changes in the particles such as speed, drift, colour, direction, density, etc. can be modified in `demo.js`. Refer to the above link for more details.
+Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
+## Skins
 
-# References and Inspiration
+There are 6 color schemes available:
 
-This template is a minimal form of the [Particle Jekyll Template](https://github.com/nrandecker/particle).
+| Blue | Turquoise | Green |
+|---------|---------|---------|
+| <img src="https://webjeda.com/online-cv/assets/images/blue.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/turquoise.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/green.jpg" width="300"/> |
+
+| Berry | Orange | Ceramic |
+|---------|---------|---------|
+| <img src="https://webjeda.com/online-cv/assets/images/berry.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/orange.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/ceramic.jpg" width="300"/> |
+
+## Credits
+
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
